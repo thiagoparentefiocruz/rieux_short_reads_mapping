@@ -1,5 +1,7 @@
 # Rieux Short Reads Mapping 🧬🚀
 
+[![DOI](https://zenodo.org/badge/1194379824.svg)](https://doi.org/10.5281/zenodo.19281220)
+
 A robust, one-click bioinformatics pipeline for highly specific short-read mapping and target quantification in High-Performance Computing (HPC) environments running SLURM. 
 
 Designed specifically for low-biomass clinical samples or complex microbiomes, this tool features **Dynamic Resource Allocation**, **Strict Competitive Mapping**, and a **Center of Mass (Midpoint)** strategy for absolute quantitative precision without double-counting reads at genomic window boundaries.
